@@ -38,7 +38,7 @@ These mechanics are at the core of all LLMs (e.g.chatGPT)It is crucial to have a
 **AI solutions**.
 
 
-**#WHY WE USE SOFTMAX**
+#**WHY WE USE SOFTMAX**
 
 
 
